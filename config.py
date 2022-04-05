@@ -9,7 +9,7 @@ PASSWORD = 'Al2+1425'
 USUARIO_ID = 4
 ZIP_MB = 250
 MOODLE_URL = 'moodle.uclv.edu.cu'
-OWNER = [toni8790,Jcarlos6789]
+OWNER = [toni8790]
 
 # CUENTA DE MEGA
 GMAIL_MEGA = 'yanco148@gmail.com'
