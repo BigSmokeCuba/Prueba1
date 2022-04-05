@@ -1,15 +1,15 @@
-BOT_TOKEN = ''
-API_ID = 
-API_HASH = ''
+BOT_TOKEN = '5256543561:AAENjHBzBrurBKPew4WK0KrUTDYkisn5htE'
+API_ID = 14586634
+API_HASH = '76be0d3cbc21ba384b593a012f6ee9c0'
 
 
 # DATOS DEL MOODLE
-USUARIO = ''
-PASSWORD = ''
-USUARIO_ID = 
-ZIP_MB = 
-MOODLE_URL = ''
-OWNER = []
+USUARIO = 'amaguilar'
+PASSWORD = 'Al2+1425'
+USUARIO_ID = 4
+ZIP_MB = 250
+MOODLE_URL = 'moodle.uclv.edu.cu'
+OWNER = [toni8790,Jcarlos6789]
 
 # CUENTA DE MEGA
 GMAIL_MEGA = 'yanco148@gmail.com'
