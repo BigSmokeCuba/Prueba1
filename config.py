@@ -4,11 +4,11 @@ API_HASH = '03bca249fdbe6824b1ca6d928a2e60ee'
 
 
 # DATOS DEL MOODLE
-USUARIO = 'amaguilar'
-PASSWORD = 'Al2+1425'
+USUARIO = 'darian.borges@estudiantes.fbio.uh.cu'
+PASSWORD = 'darian1995'
 USUARIO_ID = 4
-ZIP_MB = 250
-MOODLE_URL = 'https://moodle.uclv.edu.cu/'
+ZIP_MB = 100
+MOODLE_URL = 'evea.uh.cu'
 OWNER = [811906873] 
 
 # CUENTA DE MEGA
